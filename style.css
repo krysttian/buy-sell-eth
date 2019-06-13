@@ -1,0 +1,22 @@
+body {
+    padding: 50px;
+    font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  }
+  
+  a {
+    color: #00B7FF;
+  }
+  
+  .box {
+    width: 10px;
+    height: 10px;
+  }
+  
+  .sell{
+    background: #FF0085;
+  }
+  
+  .buy{
+    background: #FF00C6
+  }
+  
